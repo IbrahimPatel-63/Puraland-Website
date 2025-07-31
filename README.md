@@ -4,7 +4,7 @@
 
 ## ✨ Features
 
-- First-time usr of **Vite** + **Tailwind CSS**
+- First-time use of **Vite** + **Tailwind CSS**
 - Static layout (non-responsive)
 - Hover effects on some elements
 - Simple, clean design for desktop screens
