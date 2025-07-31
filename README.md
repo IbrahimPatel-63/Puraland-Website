@@ -1,8 +1,31 @@
-# React + Vite
+# Puraland Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Puraland website** is a static website built using **Vite** and **Tailwind CSS**. This is my **first project** where i used Vite and Tailwind CSS together to practice frontend development. The website is designed mainly for **laptop view** and is not responsive for mobile or tablet screens.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- First-time usr of **Vite** + **Tailwind CSS**
+- Static layout (non-responsive)
+- Hover effects on some elements
+- Simple, clean design for desktop screens
+
+## 🖼️ Live Demo
+
+
+[click here to view the live demo](https://puraland-website.vercel.app/)
+
+## Tech Stack
+
+- Vite 
+- Tailwind CSS
+
+## 🛠️ What I Practiced
+
+- Setting up a frontend project using Vite
+- Using Tailwind CSS utility classes
+- Applying hover effects
+- Building a static layout for laptop screens
+
+## ⚠️ Disclaimer
+
+- This project is a non-commercial clone of an existing website. It was created **only for learning and practice purposes.** All design credits and original content belong to the respective website **owner**
