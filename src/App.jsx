@@ -6,9 +6,9 @@ import { FaTwitter } from "react-icons/fa6";
 import { FaArrowRightLong } from "react-icons/fa6";
 import hand from "./images/hand.png";
 import pura from "./images/pura.png";
-import man from "./images/man.png";
+import man from "./images/man.webp";
 import women2 from "./images/o.avif";
-import man2 from "./images/man2.png";
+import man2 from "./images/man2.jpg";
 import computer from "./images/computer.png";
 import bulb from "./images/bulb.png";
 import thunder from "./images/thunder.png";
@@ -54,7 +54,7 @@ function App() {
               Popular web development agency. Discover <br /> more possibilites
               of you website.{" "}
             </h1>
-            <button className="px-[50px] py-[18px] bg-gradient-to-r from-[#FD3FA0] to-[#FD3E4F] text-white font-bold text-[18px]">
+            <button className="px-[50px] py-[18px] bg-gradient-to-r from-[#FD3FA0] to-[#FD3E4F] text-white font-bold text-[18px] cursor-pointer rounded-2xl">
               Discover us.
             </button>
           </div>
@@ -70,14 +70,14 @@ function App() {
             <br /> and every demo with extensive care and precision and the
             theme is <br /> power packed yet easy to use.
           </h2>
-          <button className="text-[20px] bg-transparent text-white px-[32px] py-[15px] border-2 border-white rounded-4xl font-bold flex items-center gap-5 absolute bottom-16 right-0 ">
+          <button className="text-[20px] bg-transparent text-white px-[32px] py-[15px] border-2 border-white rounded-4xl font-bold flex items-center gap-5 absolute bottom-16 right-0 cursor-pointer hover:border-black ">
             Portfolio. <FaArrowRightLong className="mt-1 text-2xl" />
           </button>
         </div>
       </div>
 
-      <div className="h-85 w-full bg-white flex justify-center  ">
-        <div className="h-full w-105  hover:bg-gradient-to-t from-[#FD3FA0] to-[#FD3E4F]  flex flex-col justify-center pl-8 hover:text-white ">
+      <div className="h-85 w-full bg-white flex justify-center   ">
+        <div className="h-full w-105  hover:bg-gradient-to-t from-[#FD3FA0] to-[#FD3E4F]  flex flex-col justify-center pl-8 hover:text-white transition duration-600 linear ">
           <h1 className="text-5xl font-bold">01</h1>
           <h2 className="text-2xl font-bold mt-4 mb-2">Design</h2>
           <p className="text-[16px]">
@@ -87,7 +87,7 @@ function App() {
           </p>
         </div>
 
-        <div className="h-full w-105  hover:bg-gradient-to-t from-[#FD3FA0] to-[#FD3E4F]  flex flex-col justify-center pl-8 hover:text-white ">
+        <div className="h-full w-105  hover:bg-gradient-to-t from-[#FD3FA0] to-[#FD3E4F]  flex flex-col justify-center pl-8 hover:text-white transition duration-600 linear">
           <h1 className="text-5xl font-bold">02</h1>
           <h2 className="text-2xl font-bold mt-4 mb-2">New Idea's</h2>
           <p className="text-[16px]">
@@ -97,7 +97,7 @@ function App() {
           </p>
         </div>
 
-        <div className="h-full w-105  hover:bg-gradient-to-t from-[#FD3FA0] to-[#FD3E4F]  flex flex-col justify-center pl-8 hover:text-white ">
+        <div className="h-full w-105  hover:bg-gradient-to-t from-[#FD3FA0] to-[#FD3E4F]  flex flex-col justify-center pl-8 hover:text-white transition duration-600 linear">
           <h1 className="text-5xl font-bold">03</h1>
           <h2 className="text-2xl font-bold mt-4 mb-2">Trending</h2>
           <p className="text-[16px]">
@@ -184,8 +184,8 @@ function App() {
             enim. Fusce consectetur lorem eu tellus semper ornare. Nullam <br />{" "}
             purus leo, imperdiet eget tempus a, mattis vitae eros.
           </p>
-          <button className=" h-15 w-48 font-bold text-[18px] text-white  bg-gradient-to-r from-[#FD3FA0] to-[#FD3E4F]">
-            Button Text
+          <button className=" h-15 w-48 font-bold text-[18px] text-white  bg-[#4169e1] rounded-2xl cursor-pointer hover:text-[#000000bf] hover:border-1 hover:border-black hover:bg-gray-200 transition duration-500 ease-in">
+            Explore More
           </button>
         </div>
       </div>

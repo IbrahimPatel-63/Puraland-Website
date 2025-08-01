@@ -29,3 +29,5 @@
 ## ⚠️ Disclaimer
 
 - This project is a non-commercial clone of an existing website. It was created **only for learning and practice purposes.** All design credits and original content belong to the respective website **owner**
+
+**© 2017 Design by themeptation // Developed in webflow by..**
